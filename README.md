@@ -1,7 +1,4 @@
 ### Hi there 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Vistor Count ![Visitor Count](https://profile-counter.glitch.me/Emaer-uav/count.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emaker-uav&layout=compact&theme=tokyonight)
-
-
  <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Emaker-uav&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
@@ -18,6 +15,8 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://streak-stats.demolab.com?user=Emaker-uav&theme=transparent&hide_border=true" alt="streak stats" title="streak stats" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emaker-uav&layout=compact&theme=tokyonight)
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Emaker-uav&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph" />
