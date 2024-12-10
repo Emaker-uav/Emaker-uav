@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&background=000000&color=FFFFFF&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
+  <img width="800" src="https://readme-typing-svg.demolab.com?<img width="800" src="https://readme-typing-svg.demolab.com? 
+  font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
 </p>
 
 <p align="center">
