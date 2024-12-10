@@ -1,5 +1,5 @@
 ### Hi there 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Vistor Count ![Visitor Count](https://profile-counter.glitch.me/Emaer-uav/count.svg)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emaker-uav&layout=compact&theme=tokyonight)
 
 
  <p align="center">
@@ -22,7 +22,6 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Emaker-uav&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emaker-uav&layout=compact&theme=tokyonight)
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
