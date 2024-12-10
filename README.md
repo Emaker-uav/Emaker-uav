@@ -16,7 +16,7 @@
     <img width="400" src="https://streak-stats.demolab.com?user=Emaker-uav&theme=transparent&hide_border=true" alt="streak stats" title="streak stats" />
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaker-uav&layout=compact&theme=default&langs_count=10&card_width=600" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaker-uav&layout=compact&theme=default&langs_count=10&card_width=800" alt="Top Langs">
 </div>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
