@@ -16,71 +16,44 @@
 
 
 
-  - 🚀 I use daily:
-    ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-    ![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
-    ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-    ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-    ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
-    ![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)
-    ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
-    ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
-    ![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
-    ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-    
-- 💻 I work using:
-  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-  ![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)
-  ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-  ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-  ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
-  ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-
-  
-  
-- ⚙️ I also use and work:
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-  ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-  ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-  ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-  
-- 🌱 I’m currently learning:
-  ![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)
-  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)
-
-
-
-<table align="center" >
-
-<tr>
-  <td>
-  <div align="center" >
-    <!-- GitHub 数据统计 -->
-    <img height="137px" src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emaker-uav&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=nord_dark'/>
-    <img height="137px" src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emaker-uav&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=nord_dark'/><br>
-  </div>
-  </td>
-</tr>
-
-</table>
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Emaker-uav&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Emaker-uav&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emaker-uav&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-    </td>
-  </tr>
-</table>
+ <p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaokang2022&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+<p align="center">
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
+</p>
+<p align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="profile stats" title="profile stats" />
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="streak stats" title="streak stats" />
+</p>
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph" />
+</p>
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy" />
+</p>
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true" alt="skill icons" title="skill icons">
+</p>
+<p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://github.com/Xiaokang2022"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://gitee.com/Xiaokang2022"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="wakatime" title="wakatime" /></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/Xiaokang2022"><img src="https://komarev.com/ghpvc/?username=Xiaokang2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
