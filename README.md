@@ -11,7 +11,7 @@
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Emaker-uav&theme=dark&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="profile stats" title="profile stats" />
-  <img width="400" src="https://streak-stats.demolab.com?user=Emaker-uav&theme=dark&hide_border=true" alt="streak stats" title="streak stats" />
+  <img width="400" src="https://streak-stats.demolab.com?user=Emaker-uav&theme=dark&hide_border=true" alt="profile stats" title="streak stats" />
 </p>
 
 <div align="center">
