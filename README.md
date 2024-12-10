@@ -6,13 +6,6 @@
     <img alt="github-snake" src="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-### My Contributions
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up,+then+You+will+be+successful!;Emaker-uav)
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-
 
  <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
