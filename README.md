@@ -1,4 +1,5 @@
-### Hi there 👋  
+### Hi there 👋  ![Visitor Count](https://profile-counter.glitch.me/Emaer-uav/count.svg)
+
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -9,7 +10,7 @@
 
  <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Emaker&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Emaker-uav&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
