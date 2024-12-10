@@ -1,11 +1,5 @@
 ### Hi there 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Vistor Count ![Visitor Count](https://profile-counter.glitch.me/Emaer-uav/count.svg)
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
 
 
  <p align="center">
@@ -27,4 +21,16 @@
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Emaker-uav&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph" />
+</p>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+  <p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
