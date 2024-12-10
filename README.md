@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋  
+### Vistor count 
+![Visitor Count](https://profile-counter.glitch.me/Emaker-uav/count.svg)
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
