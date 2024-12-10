@@ -1,5 +1,6 @@
+<div align="center">
 ### Hi there 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Visitor Count ![Visitor Count](https://profile-counter.glitch.me/Emaer-uav/count.svg)
-
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Emaker-uav&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
